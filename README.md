@@ -1,2 +1,2 @@
-# axia
+# axis
 script axis gaming
